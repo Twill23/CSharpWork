@@ -1,0 +1,11 @@
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.exe
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.deps.json
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.runtimeconfig.json
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.runtimeconfig.dev.json
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.dll
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.pdb
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.AssemblyInfo.cs
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.dll
+C:\Users\willi\Desktop\CompleteC#MasterClass\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.pdb
